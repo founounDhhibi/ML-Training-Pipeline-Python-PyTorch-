@@ -1,0 +1,19 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Training artifacts
+data/
+artifacts/
+logs/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
